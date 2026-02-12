@@ -1,0 +1,15 @@
+body{
+
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: regular;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+h1{color:red}
+
+
+
+h2{color:rgb(18, 18, 105)}
