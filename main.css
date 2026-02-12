@@ -1,4 +1,6 @@
 body{
+background-image: url("assets/bigimage\ .png");
+background-size: cover;
 
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
